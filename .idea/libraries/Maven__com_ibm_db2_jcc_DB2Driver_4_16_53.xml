@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ibm.db2.jcc:DB2Driver:4.16.53">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/db2/jcc/DB2Driver/4.16.53/DB2Driver-4.16.53.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/db2/jcc/DB2Driver/4.16.53/DB2Driver-4.16.53-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/db2/jcc/DB2Driver/4.16.53/DB2Driver-4.16.53-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
